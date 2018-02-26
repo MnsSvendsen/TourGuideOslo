@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/homeTollbar"
+        android:title="Hjemm"
+        app:showAsAction="never">
+
+    </item>
+
+    <item
+        android:id="@+id/contactTollbar"
+        android:title="Kontakt oss"
+        app:showAsAction="never">
+
+    </item>
+
+    <item
+        android:id="@+id/loguteTollbar"
+        android:title="Logg Ut"
+        app:showAsAction="never">
+
+    </item>
+
+</menu>

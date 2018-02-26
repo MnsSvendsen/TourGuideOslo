@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Innlevering2Android</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="temperature">Temperature</string>
+    <string name="condistion">condistion</string>
+    <string name="location">location</string>
+</resources>
